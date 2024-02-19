@@ -1,0 +1,33 @@
+{
+  "name": "react-native-month-year-picker",
+  "version": "1.0.0",
+  "description": "A month and year picker for react-native apps",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avinash-coderscotch/react-native-month-year-picker.git"
+  },
+  "keywords": [
+    "react-native",
+    "month-year-picker",
+    "component"
+  ],
+  "author": "Coder Scotch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avinash-coderscotch/react-native-month-year-picker/issues"
+  },
+  "homepage": "https://github.com/avinash-coderscotch/react-native-month-year-picker",
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "^0.72.0",
+    "react-native-modalize": "^2.1.1",
+    "react-native-svg": "^13.14.0"
+  }
+}
